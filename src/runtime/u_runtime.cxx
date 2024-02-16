@@ -3,6 +3,8 @@
  */
 
 #include <random>
+#include <ctime>
+#include <pthread.h>
 #include <dlfcn.h>
 #include <encoder/u_encoder.h>
 #include "u_runtime.h"

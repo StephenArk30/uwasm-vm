@@ -12,6 +12,7 @@
 #include <map>
 #include <vector>
 #include <stdlib.h>
+#include <string>
 
 #define DEFAULT_STACK_SIZE 1024
 #define MEMORY_DEFAULT_SIZE (64 * 1024)
